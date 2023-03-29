@@ -1,0 +1,19 @@
+{
+    "_comment": "Config Name",
+    "durabilitynotifier.config.title": "Configuração do Notificador de Durabilidade",
+  
+    "_comment": "Warning message",
+    "durabilitynotifier.warning.part1": "Aviso! %s",
+    "durabilitynotifier.warning.part2": " desceu abaixo ",
+    "durabilitynotifier.warning.part3": "de durabilidade.",
+  
+    "text.autoconfig.durabilitynotifier.option.general": "Geral",
+    "text.autoconfig.durabilitynotifier.option.general.percentage": "Percentagem",
+    "text.autoconfig.durabilitynotifier.option.message": "Mensagem",
+    "text.autoconfig.durabilitynotifier.option.message.sendMessage": "Enviar mensagem",
+    "text.autoconfig.durabilitynotifier.option.message.messageColor": "Enviar cor da mensagem",
+    "text.autoconfig.durabilitynotifier.option.sound": "Som",
+    "text.autoconfig.durabilitynotifier.option.sound.playSound": "Tocar Som",
+    "text.autoconfig.durabilitynotifier.option.sound.soundLocation": "Localização do Som",
+    "text.autoconfig.durabilitynotifier.option.sound.volume": "Volume"
+  }
